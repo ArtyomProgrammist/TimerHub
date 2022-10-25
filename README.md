@@ -4,7 +4,7 @@ TimerHub - можете рассматривать время просто та�
 apt update &&
 apt upgrade &&
 pkg install git &&
-git clone https://github.com/ArtyomProgrammist/TimerHub.git
+git clone https://github.com/ArtyomProgrammist/TimerHub.git &&
 cd TimerHub &&
 python time.py &&
 # Но можно наоборот запустить скрипт по быстрее
